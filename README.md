@@ -1,7 +1,7 @@
-# 🧩 API - Combustibles Unigas | ERP SIESA  
-![version](https://img.shields.io/badge/Versión3-1.25.10.28-blue.svg)  
+# 🧩 Combustibles Unigas | NSX  
+![version](https://img.shields.io/badge/Versión2-1.25.10.11-blue.svg)  
 ![estado](https://img.shields.io/badge/Estado-Estable-brightgreen.svg)  
-![ERP](https://img.shields.io/badge/ERP-SIESA-orange.svg)
+![NSX](https://img.shields.io/badge/NSX-2-orange.svg)
 
 ---
 
