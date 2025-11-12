@@ -35,5 +35,4 @@ Mediante **consultas y conectores dinámicos**, **NSX 2** permite:
 
 📈 **NSX 2** impulsa la eficiencia operativa y fortalece la integración tecnológica de la compañía.
 ---
-
 © 2025 - Departamento TIC - Combustibles Unigas SAS
