@@ -7,39 +7,33 @@
 
 ## 📘 Descripción General  
 
-La **NSX 2** es el software que tenemos para control de **LIQUIDOS** en estaciones propias y con solución de **Facturación Eléctronica Propia**.  
+> **NSX 2** es una solución integral que gestiona las operaciones de las unidades de negocio  
+> **💧 Líquidos** y **🛢️ Lubricantes - TBAS** en estaciones propias.  
 
-Su propósito es **unificar y homologar** las estructuras de datos con el **ERP SIESA**, garantizando coherencia, trazabilidad e integración fluida entre sistemas.  
+Integra una plataforma de **Facturación Electrónica Propia**, conectada directamente con el **ERP SIESA**, asegurando una **transmisión confiable y automática** de la información operativa.  
 
-Mediante **consultas y conectores dinámicos**, permite una **integración automatizada**, optimizando procesos, reduciendo duplicidades y centralizando la información maestra.  
+---
+
+### 🎯 Objetivo  
+Automatizar el procesamiento de datos de ventas:  
+- 💵 **Contado**  
+- 💳 **Crédito**  
+- 🎁 **Puntos Colombia** (Redención y Fidelización)  
+
+Garantizando **coherencia, trazabilidad e integración fluida** con el **ERP SIESA**.  
 
 ---
 
-## ⚙️ Funcionalidad  
-
-Ofrece un conjunto integral de servicios para la **gestión y consulta dinámica de maestros corporativos**, facilitando la interoperabilidad con el **ERP SIESA** y sistemas externos.
-
-### 🔹 Principales funcionalidades  
-
-- **Consultas dinámicas** de terceros con filtros flexibles.  
-- Obtención de **maestros**:
-  - Compañías  
-  - Unidades de negocio  
-  - Bodegas  
-  - Centros de operación  
-  - Unidades de medida  
-  - Ítems  
-- **Cuentas por Cobrar (CxC)**:
-  - Detalle de movimientos por cliente  
-  - Consolidado general de saldos  
-- **Cuentas por Pagar (CxP)**:
-  - Detalle de facturas y documentos asociados  
-  - Consolidado general de obligaciones  
-- **Creación dinámica de terceros (POST)**  
-- **Gestión comercial**:
-  - Remisiones  
-  - Ventas de contado  
-  - Facturación electrónica  
-- **Servidor de pruebas** para validación antes de producción  
+### ⚙️ Funcionalidad  
+Mediante **consultas y conectores dinámicos**, **NSX 2** permite:  
+- 🔄 **Integración automatizada y centralizada** de datos  
+- ⚡ **Optimización de procesos operativos**  
+- 🧩 **Eliminación de duplicidades**  
+- 🗂️ **Gestión eficiente de información maestra**  
 
 ---
+
+📈 **NSX 2** impulsa la eficiencia operativa y fortalece la integración tecnológica de la compañía.
+---
+
+© 2025 - Departamento TIC - Combustibles Unigas SAS
