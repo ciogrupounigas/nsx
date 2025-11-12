@@ -7,7 +7,7 @@
 
 ## 📘 Descripción General  
 
-La **API de Combustibles Unigas** proporciona acceso a los **maestros de configuración corporativos** utilizados por las distintas **unidades de negocio** de la organización.  
+La **NSX 2** es el software que tenemos para control de **LIQUIDOS** en estaciones propias y con solución de **Facturación Eléctronica Propia**.  
 
 Su propósito es **unificar y homologar** las estructuras de datos con el **ERP SIESA**, garantizando coherencia, trazabilidad e integración fluida entre sistemas.  
 
