@@ -1,7 +1,7 @@
 - [Inicio](README.md)
 - [Glosario](Glosario.md)
-- [Escritorio]
-- [Tablet]
+- [Escritorio](PC.md)
+- [Tablet](TB.md)
 
 ---
 
@@ -10,7 +10,7 @@
 <details open>
   <summary><strong>PROGRAMA ESCRITORIO</strong></summary>
 
-  - [Centros de costos]
+  - [Manual de Operación](PC.md)
 
 </details>
 
@@ -21,7 +21,7 @@
 <details>
   <summary><strong>PROGRAMA TABLET</strong></summary>
 
-  - [Factura Venta]
+  - [Manual de Operación](TB.md)
  
 </details>
 
